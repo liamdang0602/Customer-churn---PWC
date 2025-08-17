@@ -48,6 +48,8 @@ Clone the repository and review the PDF report (Project PWC - Tung Dang.pdf) for
 Explore the data and models (if provided) to replicate or extend the analysis.
 
 ## 9.Contact
-For inquiries or collaboration, reach out to Duc Tung Dang (Liam) at [insert email or contact method].
+For inquiries or collaboration, reach out to Duc Tung Dang (Liam) at 
+Gmail: tungdang0602.work@gmail.com
+Linkedin: in/ductungliam
 
 
