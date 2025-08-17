@@ -15,14 +15,19 @@ Recommendations: Improve customer service, offer incentives for long-term contra
 ## 4.Data Insights
 
 Dataset: 7,032 customers, with the longest tenure at 72 months and the highest monthly charge at US$118.75.
+
 Churn Rate: Exceeds 25%, with the highest risk within the first 5 months, peaking in the initial 10 months.
 
 ## 5.Report Sections
 
 Understanding the Customer Base: Analyzes demographics (age, gender, family structure) and service usage (Internet, Phone, TV).
+
 Customer Segments: Highlights higher churn among seniors, those without dependents/partners, Fiber Optic users, and paperless billing adopters.
+
 Churn Prediction Model: Evaluates Logistic Regression, Decision Tree, Random Forest, and SVM, with Random Forest selected for its balanced performance (accuracy 0.85, F1-score 0.71).
+
 Feature Importance: Tenure (0.16), Technical Tickets (0.15), and Support Ticket Ratio (0.14) are top churn drivers.
+
 Retention Strategies: Includes upgrading infrastructure, enhancing technical staff skills, revising pricing, and promoting loyalty incentives.
 
 ## 6.Some Analyzing Graphs
@@ -37,19 +42,26 @@ Retention Strategies: Includes upgrading infrastructure, enhancing technical sta
 
 ## 7.Library Use
 Pandas: Used for data manipulation and analysis.
+
 NumPy: Employed for numerical computations and array operations.
+
 Matplotlib: Utilized for creating static, animated, and interactive visualizations.
+
 Seaborn: Applied for statistical data visualization built on Matplotlib.
+
 Scikit-learn (sklearn): Leveraged for machine learning models and evaluation metrics.
 
 ## 8.Usage
 
 Clone the repository and review the PDF report (Project PWC - Tung Dang.pdf) for detailed findings and visualizations.
+
 Explore the data and models (if provided) to replicate or extend the analysis.
 
 ## 9.Contact
 For inquiries or collaboration, reach out to Duc Tung Dang (Liam) at 
+
 Gmail: tungdang0602.work@gmail.com
+
 Linkedin: in/ductungliam
 
 
