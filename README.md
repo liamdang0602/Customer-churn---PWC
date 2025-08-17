@@ -51,13 +51,17 @@ Seaborn: Applied for statistical data visualization built on Matplotlib.
 
 Scikit-learn (sklearn): Leveraged for machine learning models and evaluation metrics.
 
-## 8.Usage
+## 8. Tool use
+
+Python, Figma
+
+## 9.Usage
 
 Clone the repository and review the PDF report (Project PWC - Tung Dang.pdf) for detailed findings and visualizations.
 
 Explore the data and models (if provided) to replicate or extend the analysis.
 
-## 9.Contact
+## 10.Contact
 For inquiries or collaboration, reach out to Duc Tung Dang (Liam) at 
 
 Gmail: tungdang0602.work@gmail.com
